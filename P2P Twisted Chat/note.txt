@@ -1,0 +1,2 @@
+pip install twisted
+https://sites.google.com/site/egitimbilgileri/home/a---python---twisted---qt/20---twisted-defer
